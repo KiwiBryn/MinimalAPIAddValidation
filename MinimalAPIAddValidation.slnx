@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WithInterceptor/WithInterceptor.csproj" />
+  <Project Path="WithoutInterceptor/WithoutInterceptor.csproj" />
+</Solution>

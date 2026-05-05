@@ -1,0 +1,6 @@
+@WithoutInterceptor_HostAddress = http://localhost:5062
+
+GET {{WithoutInterceptor_HostAddress}}/scalar/
+Accept: application/json
+
+###
